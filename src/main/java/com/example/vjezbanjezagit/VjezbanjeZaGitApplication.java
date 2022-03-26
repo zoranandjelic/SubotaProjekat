@@ -8,7 +8,7 @@ public class VjezbanjeZaGitApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(VjezbanjeZaGitApplication.class, args);
-        System.out.println("Danas je lijep dan!");
+        System.out.println("Danas nijje lijep dan!");
     }
 
 }
